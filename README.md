@@ -1,4 +1,6 @@
-# on-air
+# ng-japan OnAir
+
+![logo](./logo.png)
 
 ## ng-japan OnAirって何？
 
