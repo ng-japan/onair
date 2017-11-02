@@ -19,3 +19,13 @@ ng-japanによるオンラインイベントです。
 - その他いろいろ
 
 YouTube Liveを使ってできることをいろいろ模索しようと思います。リクエストがあれば [Issue](https://github.com/ng-japan/on-air/issues/2) へ気軽に投稿してください。
+
+
+## 過去の内容
+
+### #0 
+
+YouTube: https://www.youtube.com/watch?v=0I6bwpuV9Pk
+
+- ng-japan OnAirの紹介
+- Angular v5について (@lacolaco)
