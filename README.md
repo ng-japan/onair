@@ -23,6 +23,12 @@ YouTube Liveを使ってできることをいろいろ模索しようと思い�
 
 ## 過去の内容
 
+### #1
+
+YouTube: https://www.youtube.com/watch?v=wkxDNNMRZd8
+
+- 最近のニュース 5.2.0リリースとv6 LTS (@lacolaco)
+
 ### #0 
 
 YouTube: https://www.youtube.com/watch?v=0I6bwpuV9Pk
