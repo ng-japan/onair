@@ -1,37 +1,31 @@
-# ng-japan OnAir
+![](thumbnail.png)
 
-![logo](./logo.png)
 
-## ng-japan OnAirって何？
-
-ng-japanによるオンラインイベントです。
-
-### 目的
+**ng-japan OnAir**はAngular日本ユーザー会が主催するオンラインイベントです！
 
 - 最新情報やプラクティスをキャッチアップする機会は多い方がいい
 - 勉強会やミートアップは東京に集中してるし、予定が合わないと参加できない
 - オンライン開催なら誰でもどこでも参加できるしアーカイブが残る！ :tada:
 
-### 何するの？
+イベント情報は connpass でチェック！
+https://ngjapan.connpass.com/
 
-- ライトニングトーク
-- ディスカッション
-- その他いろいろ
+**Show Notes （放送内容のまとめ）**
 
-YouTube Liveを使ってできることをいろいろ模索しようと思います。リクエストがあれば [Issue](https://github.com/ng-japan/on-air/issues/2) へ気軽に投稿してください。
+https://github.com/ng-japan/onair/discussions/categories/show-notes
 
+**過去の放送はこちら！**
 
-## 過去の内容
+https://www.youtube.com/playlist?list=PLkUrrnO0bbijBRqp7pDsPr-bhV_TKZuSa
 
-### #1
+**イベントへの要望・提案はこちら！**
 
-YouTube: https://www.youtube.com/watch?v=wkxDNNMRZd8
+https://github.com/ng-japan/onair/discussions/categories/%E6%8F%90%E6%A1%88-%E8%A6%81%E6%9C%9B
 
-- 最近のニュース 5.2.0リリースとv6 LTS (@lacolaco)
+----
 
-### #0 
+Angular日本ユーザー会は日本のAngular開発者によるユーザーコミュニティです。
+ナレッジの共有やイベントの開催、ドキュメントの翻訳などを中心に活動しています。
 
-YouTube: https://www.youtube.com/watch?v=0I6bwpuV9Pk
+https://community.angular.jp
 
-- ng-japan OnAirの紹介
-- Angular v5について (@lacolaco)
