@@ -1,8 +1,11 @@
 title: 'タイトル 【ng-japan OnAir #】'
 labels: []
 body:
-  - type: markdown
+  - type: textarea
+    id: body
     attributes:
+      label: Body
+      description: 'body'
       value: |
         YouTube: {{URL}}
         connpass: {{URL}}
