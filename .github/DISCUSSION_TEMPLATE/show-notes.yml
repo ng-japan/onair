@@ -1,0 +1,16 @@
+title: 'タイトル 【ng-japan OnAir #】'
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        YouTube: {{URL}}
+        connpass: {{URL}}
+
+        <!-- サムネイル --->
+
+        ----
+
+        ## アジェンダ
+
+        - TODO
